@@ -1,0 +1,19 @@
+body{
+background-color:aliceblue;
+}
+
+h1{
+font-family: 'Gloria Hallelujah', cursive;
+color: rgb(255, 0, 0);
+}
+img{
+    border: 30px solid rgb(2, 255, 12);
+}
+a{
+    width: 300px;
+    margin:auto;
+    
+}
+p{
+font-family: 'Gloria Hallelujah', cursive;
+}
